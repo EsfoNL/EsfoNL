@@ -1,4 +1,4 @@
-# i hate emoji!
+# c++
 
 ## task list
-- [x] hating emoji
+- [x] learn c++
